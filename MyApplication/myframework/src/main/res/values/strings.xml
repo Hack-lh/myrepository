@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFramework</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home">首页</string>
+    <string name="classify">分类</string>
+    <string name="message">消息</string>
+    <string name="call">通话</string>
+</resources>

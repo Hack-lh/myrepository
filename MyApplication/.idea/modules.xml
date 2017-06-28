@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JPushExample(660586)/JPushExample(660586).iml" filepath="$PROJECT_DIR$/JPushExample(660586)/JPushExample(660586).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PushSDK/PushSDK.iml" filepath="$PROJECT_DIR$/PushSDK/PushSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dmzxinglib/dmzxinglib.iml" filepath="$PROJECT_DIR$/dmzxinglib/dmzxinglib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myframework/myframework.iml" filepath="$PROJECT_DIR$/myframework/myframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myjp/myjp.iml" filepath="$PROJECT_DIR$/myjp/myjp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myjpush/myjpush.iml" filepath="$PROJECT_DIR$/myjpush/myjpush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylogin/mylogin.iml" filepath="$PROJECT_DIR$/mylogin/mylogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymvp/mymvp.iml" filepath="$PROJECT_DIR$/mymvp/mymvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myscan/myscan.iml" filepath="$PROJECT_DIR$/myscan/myscan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myumeng/myumeng.iml" filepath="$PROJECT_DIR$/myumeng/myumeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myutils/myutils.iml" filepath="$PROJECT_DIR$/myutils/myutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myzxing/myzxing.iml" filepath="$PROJECT_DIR$/myzxing/myzxing.iml" />
+    </modules>
+  </component>
+</project>

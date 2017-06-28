@@ -1,0 +1,1 @@
+include ':app', ':mymvp', ':myframework', ':mylogin', ':myjp', ':JPushExample(660586)', ':myjpush', ':myumeng', ':myumeng', ':PushSDK', ':myscan', ':myzxing', ':dmzxinglib', ':myutils'

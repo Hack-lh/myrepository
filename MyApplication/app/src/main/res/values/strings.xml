@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello world</string>
+    <string name="title_activity_recy">RecyActivity</string>
+</resources>

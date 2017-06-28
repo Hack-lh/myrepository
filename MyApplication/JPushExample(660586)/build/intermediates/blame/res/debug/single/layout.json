@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\order\\MyApplication\\JPushExample(660586)\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "E:\\order\\MyApplication\\JPushExample(660586)\\res\\layout\\set_push_time.xml"
+    },
+    {
+        "merged": "E:\\order\\MyApplication\\JPushExample(660586)\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "E:\\order\\MyApplication\\JPushExample(660586)\\res\\layout\\customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "E:\\order\\MyApplication\\JPushExample(660586)\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "E:\\order\\MyApplication\\JPushExample(660586)\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "E:\\order\\MyApplication\\JPushExample(660586)\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "E:\\order\\MyApplication\\JPushExample(660586)\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\order\\MyApplication\\JPushExample(660586)\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "E:\\order\\MyApplication\\JPushExample(660586)\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "E:\\order\\MyApplication\\JPushExample(660586)\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "E:\\order\\MyApplication\\JPushExample(660586)\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "E:\\order\\MyApplication\\JPushExample(660586)\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\order\\MyApplication\\JPushExample(660586)\\res\\layout\\main.xml"
+    }
+]
